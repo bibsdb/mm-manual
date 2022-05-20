@@ -14,3 +14,6 @@ Det er nu forsiden
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+The project is called {{ site.github.project_title }}
+Branch {{ site.github.source.branch }}
+

@@ -6,3 +6,6 @@ layout: single
 author_profile: true
 ---
 Her er indhold
+
+[Konfiguration](/_pages/konfiguration)
+

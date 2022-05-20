@@ -7,5 +7,5 @@ author_profile: true
 ---
 Her er indhold
 
-[Konfiguration](_pages/konfiguration.md)
+[Konfiguration](_pages/konfiguration/)
 

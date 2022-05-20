@@ -1,3 +1,9 @@
+---
+permalink: /konfiguration
+---
+
+
+
 DDB CMS Manual - Konfiguration
 ==============================
 

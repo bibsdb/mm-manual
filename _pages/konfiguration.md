@@ -1,5 +1,7 @@
 ---
 permalink: /konfiguration
+toc: true
+toc_label: "Indhold på siden"
 ---
 
 

@@ -21,6 +21,11 @@ feature_row:
     excerpt: "Bidrag til udvikling af Bibliotekernes CMS."
     btn_label: "Gå til manual"
     btn_class: "btn--primary"
+    
+feature_row_2:
+  - excerpt: "{% include video id="dQw4w9WgXcQ" provider="youtube" %}"
+  - excerpt: "{% include video id="dQw4w9WgXcQ" provider="youtube" %}"
+  - excerpt: "{% include video id="dQw4w9WgXcQ" provider="youtube" %}"
 ---
 
 # Hvad er din rolle?

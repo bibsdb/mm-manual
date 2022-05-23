@@ -4,10 +4,11 @@ excerpt: "This post should display a **header with an overlay image**, if the th
 layout: splash
 header:
   overlay_color: "#37547d"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* 
 ---
 Det er nu forsiden
 

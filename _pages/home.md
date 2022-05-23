@@ -2,11 +2,8 @@
 title: "Manual til Folkebibliotekernes CMS"
 layout: splash
 permalink: /
-excerpt: "Release 17"
-header:
-  overlay_color: "#37547d"
 intro: 
-  - excerpt: "haloo hallo"
+  - excerpt: "DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med    bibliotekerne."
 feature_row:
   - image_path: assets/images/headerimage.PNG
     alt: "placeholder image 1"

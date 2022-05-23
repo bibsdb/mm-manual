@@ -12,46 +12,6 @@ sidebar:
 DDB CMS Manual - Konfiguration
 ==============================
 
-[Gem manualen som PDF](//pdfcrowd.com/url_to_pdf/)
-
-- [DDB CMS Manual - Konfiguration_](#ddb-cms-manual---konfiguration_)
-  - [Om vejledningen](#om-vejledningen)
-  - [Anvendt notation](#anvendt-notation)
-  - [Farver og logo](#farver-og-logo)
-  - [Overlay](#overlay)
-  - [Personalisering](#personalisering)
-  - [Placering af indhold på forsiden og sektioner](#placering-af-indhold-på-forsiden-og-sektioner)
-  - [Kontaktinformation](#kontaktinformation)
-  - [Webforms / webformularer](#webforms--webformularer)
-  - [Adgangsplatformen - Log ind og Single Sign-on](#adgangsplatformen---log-ind-og-single-sign-on)
-  - [Bibliotekssystemet FBS](#bibliotekssystemet-fbs)
-  - [Betaling af mellemværende med DIBS betalingsservice](#betaling-af-mellemværende-meddibs-betalingsservice)
-  - [Visning af mellemværender fra både ØiR og DIBS](#visning-af-mellemværender-fra-både-øir-og-dibs)
-  - [Indstillinger for reservering](#indstillinger-for-reservering)
-  - [Søgning i Databrønden](#søgning-i-databrønden)
-  - [Søg redaktionelt indhold på hjemmesiden](#søg-redaktionelt-indhold-på-hjemmesiden)
-  - [Søgning på arrangementer](#søgning-på-arrangementer)
-  - [Smart Search](#smart-search)
-  - [Subsearch](#subsearch)
-  - [Oversættelser](#oversættelser)
-  - [Eksport og udstilling af redaktionelt indhold til eksterne systemer](#eksport-og-udstilling-af-redaktionelt-indhold-til-eksterne-systemer)
-  - [E-resursemodul](#e-resursemodul)
-  - [Webstatistik](#webstatistik)
-  - [Arrangementer](#arrangementer)
-  - [Spørg Biblioteksvagten](#spørg-biblioteksvagten)
-  - [eKurser](#ekurser)
-  - [Artikler fra Infomedia](#artikler-fra-infomedia)
-  - [Administration](#administration)
-  - [Skift kodeordet til lokaladministrator](#skift-kodeordet-til-lokaladministrator)
-- [Konfigurer fjernadgang med proxy til de licensbelagte elektroniske ressourcer.](#konfigurer-fjernadgang-med-proxy-til-de-licensbelagte-elektroniske-ressourcer)
-- [**Cookie- og privatlivspolitik**](#cookie--og-privatlivspolitik)
-  - [Hvad er en cookie?](#hvad-er-en-cookie)
-  - [Hvis du ikke vil tillade cookies](#hvis-du-ikke-vil-tillade-cookies)
-  - [Brug af personoplysninger](#brug-af-personoplysninger)
-  - [Hvad er tredjeparts-cookies?](#hvad-er-tredjeparts-cookies)
-  - [Rettelse af cookie-tekst til brugerne](#rettelse-af-cookie-tekst-til-brugerne)
-
-![](/system/rich/rich_files/rich_files/000/000/028/original/forsiden_dump.png)
 
 Om vejledningen
 ---------------

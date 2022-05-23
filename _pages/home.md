@@ -5,6 +5,8 @@ permalink: /
 excerpt: "Release 17"
 header:
   overlay_color: "#37547d"
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* 
 feature_row:
   - image_path: assets/images/headerimage.PNG
     alt: "placeholder image 1"
@@ -22,6 +24,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
 Det er nu forsiden

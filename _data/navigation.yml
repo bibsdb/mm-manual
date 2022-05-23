@@ -3,15 +3,15 @@ main:
     url: /about/
     
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: "Indhold - opret pg rediger"
     children:
-      - title: "Child Page A1"
+      - title: "Video Guides"
         url: /
-      - title: "Child Page A2"
+      - title: "Nyheder"
         url: /
-      - title: "Child Page A3"
+      - title: "Arrangemneter"
         url: /
-      - title: "Child Page A4"
+      - title: "Sektioner"
         url: /
   - title: "Parent Page B"
     children:

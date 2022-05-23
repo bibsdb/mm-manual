@@ -21,7 +21,7 @@ feature_row:
 > DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne.
 > [CMS pakke](http://kramdown.gettalong.org)
 
-
+# Vejledninger der passer til dig
 {% include feature_row %}
 
 Det er nu forsiden

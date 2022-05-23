@@ -1,4 +1,5 @@
 ---
+title: Konfiguration af DDB CMS
 permalink: /konfiguration
 toc: true
 toc_label: "Indhold på siden"

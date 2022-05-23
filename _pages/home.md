@@ -3,9 +3,7 @@ title: ""
 layout: splash
 permalink: /
 feature_row:
-  - image_path: assets/images/blue-800-150.png
-    alt: "placeholder image 1"
-    title: "Indholdsredaktør"
+  - title: "Indholdsredaktør"
     excerpt: "Opret indhold og løs almidelige vedligeholdelsesopgaver på hjemmesiden."
   - image_path: /assets/images/blue-800-150.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"

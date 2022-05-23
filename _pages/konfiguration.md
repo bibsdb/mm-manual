@@ -9,30 +9,6 @@ sidebar:
 ---
 
 
-Om vejledningen
----------------
-
-Vejledningen beskriver de forskellige konfigurationsmuligheder i DDB CMS. Vejledninger har primært et teknisk fokus, og er rettet mod medarbejdere, som skal håndtere den tekniske opsætning/konfiguration af hjemmesiden - f.eks. som webmaster eller lignende. Hvis du primært søger vejledning til DDB CMS’ redaktionelle funktioner anbefales “DDB CMS Manualen”.
-
-Hvis du ikke tidligere har arbejdet med DDB CMS kan det anbefales først at læse afsnittet “Sådan er DDB CMS struktureret” i “DDB CMS Manualen”, der giver en overordnet beskrivelse af sitets struktur og pointen med de forskellige strukturelle elementer.
-
-Anvendt notation
-----------------
-
-### Notation
-
-Nogle steder i vejledningen er der behov for at henvise til hele eller dele af URL'en.Det foregår sådan:
-
-* Tekst i “\[ \]” indikerer, at der er forskelle alt efter hvilket biblioteks hjemmeside der henvises til.
-* Ved henvisning til undersider udelades bibliotekets adresse så http://www.biblioteketsnavn.dk fjernes og det er kun den relative-URL, der er tilbage f.eks. “/stiens navn”
-* Ved henvisninger til undersider, der er individuelle for hvert biblioteket indsættes \[BIBLIOTEKETS\_NAVN\] i URL'en.
-
-### Sti til funktioner
-
-I nogle afsnit beskrives funktioner, hvor en admin-sti er angivet i parentes, f.eks. (Sti: admin/structure/menu/manage/main-menu). Du kan bruge stien i stedet for at klikke dig frem til den pågældende funktion. Du kan enten skrive stien ind direkte efter hjemmesidenavnet (husk / efter hjemmesidenavnet): f.eks. \[\]/admin/structure/menu/manage/main-menu
-
-Eller du kan på alle jeres sider efter sidens adresse skrive #overlay= og derefter stien: f.eks. \[\]/arrangementer#overlay=admin/config/ting/resevable
-
 Farver og logo
 --------------
 

@@ -4,18 +4,18 @@ layout: splash
 permalink: /
 feature_row:
   - title: "Indholdsredaktør"
-    excerpt: "Opret indhold og løs almidelige vedligeholdelsesopgaver på hjemmesiden."
-  - image_path: /assets/images/blue-800-150.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Lokal-administrator"
+    excerpt: "Opret indhold og andre almidelige opgaver på hjemmesiden."
+    btn_label: "Gå til manual"
+    btn_class: "btn--primary"
+  - title: "Lokal-administrator"
     excerpt: "Grundlæggende opsætning af hjemmesiden."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Gå til manual"
     btn_class: "btn--primary"
-  - image_path: /assets/images/blue-800-150.png
-    title: "Udvikler"
+  - title: "Udvikler"
     excerpt: "Bidrag til udvikling af Bibliotekernes CMS."
+    btn_label: "Gå til manual"
+    btn_class: "btn--primary"
 ---
 
 # Hvad er din rolle?

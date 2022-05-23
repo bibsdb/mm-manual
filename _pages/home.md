@@ -18,11 +18,11 @@ feature_row:
     excerpt: "Bidrag til udvikling af Bibliotekernes CMS."
 ---
 
-> DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne.
-> [CMS pakke](http://kramdown.gettalong.org)
-
 # Hvad er din rolle?
 {% include feature_row %}
+
+> DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne.
+> [CMS pakke](http://kramdown.gettalong.org)
 
 Det er nu forsiden
 

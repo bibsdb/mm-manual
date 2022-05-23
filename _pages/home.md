@@ -21,6 +21,7 @@ feature_row:
     title: "Udvikler"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
 DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne.
 
 {% include feature_row id="intro" class="green" type="center" %}

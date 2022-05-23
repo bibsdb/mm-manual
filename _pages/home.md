@@ -2,8 +2,6 @@
 title: ""
 layout: splash
 permalink: /
-header:
-  overlay_color: "#37547d"
 intro: 
   - excerpt: "DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med    bibliotekerne."
 feature_row:
@@ -28,7 +26,7 @@ feature_row:
 
 Det er nu forsiden
 
-This text is rendered in green.
+DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med    bibliotekerne.
 {: .ddbcms-intro}
 
 

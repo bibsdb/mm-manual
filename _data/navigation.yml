@@ -13,11 +13,11 @@ sidebar-sample:
         url: /
       - title: "Sektioner"
         url: /
-  - title: "Parent Page B"
+  - title: "Konfiguration"
     children:
-      - title: "Child Page B1"
+      - title: "Søgning"
         url: /
-      - title: "Child Page B2"
+      - title: "Betaling"
         url: /
       - title: "Child Page B3"
         url: /

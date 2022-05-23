@@ -4,11 +4,12 @@
 
 @charset "utf-8";
 
-$link-color: yellow;
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.green {
-  background-color: green;
+.ddf-intro {
+  background-color: "#37547d";
+  padding: 20px;
+  color: white
+    
 }

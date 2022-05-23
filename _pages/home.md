@@ -1,7 +1,8 @@
 ---
+title: "Manual til Folkebibliotekernes CMS"
+layout: splash
 permalink: /
 excerpt: "Release 17"
-layout: splash
 header:
   overlay_color: "#37547d"
 feature_row:

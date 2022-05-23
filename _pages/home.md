@@ -1,6 +1,7 @@
 ---
 permalink: /
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+layout: splash
 ---
 Det er nu forsiden
 

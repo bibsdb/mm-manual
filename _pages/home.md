@@ -1,5 +1,5 @@
 ---
-title: "DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne."
+title: "Guides til alle"
 layout: splash
 permalink: /
 feature_row:

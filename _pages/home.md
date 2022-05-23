@@ -1,6 +1,6 @@
 ---
 title: Konfiguration af DDB CMS
-permalink: /konfiguration
+permalink: /
 toc: true
 toc_label: "Indhold på siden"
 sidebar:

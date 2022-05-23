@@ -6,7 +6,7 @@ excerpt: "Release 17"
 header:
   overlay_color: "#37547d"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* 
+  - excerpt: "haloo hallo"
 feature_row:
   - image_path: assets/images/headerimage.PNG
     alt: "placeholder image 1"

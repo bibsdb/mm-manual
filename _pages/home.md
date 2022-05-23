@@ -1,7 +1,12 @@
 ---
-title: ""
+title: "DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne."
 layout: splash
 permalink: /
+header:
+  overlay_color: "#37547d"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com" 
 feature_row:
   - title: "Indholdsredaktør"
     excerpt: "Opret indhold og andre almidelige opgaver på hjemmesiden."

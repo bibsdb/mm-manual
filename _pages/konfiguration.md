@@ -8,11 +8,6 @@ sidebar:
 ---
 
 
-
-DDB CMS Manual - Konfiguration
-==============================
-
-
 Om vejledningen
 ---------------
 

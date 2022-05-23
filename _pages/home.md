@@ -1,5 +1,5 @@
 ---
-title: "Manual til Folkebibliotekernes CMS"
+title: ""
 layout: splash
 permalink: /
 header:

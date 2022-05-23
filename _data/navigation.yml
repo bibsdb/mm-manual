@@ -3,7 +3,7 @@ main:
     url: /about/
     
 sidebar-sample:
-  - title: "Indhold - opret pg rediger"
+  - title: "Indholdstyper"
     children:
       - title: "Video Guides"
         url: /

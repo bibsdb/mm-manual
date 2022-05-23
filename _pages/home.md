@@ -6,9 +6,7 @@ header:
   overlay_color: "#37547d"
   actions:
     - label: "More Info"
-      url: "https://unsplash.com"
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* 
+      url: "https://unsplash.com" 
 ---
 Det er nu forsiden
 

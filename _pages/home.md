@@ -3,7 +3,7 @@ permalink: /
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 layout: splash
 header:
-  overlay_image: /assets/images/headerimage.PNG
+  overlay_color: "#37547d"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"

@@ -5,19 +5,19 @@ permalink: /
 feature_row:
   - image_path: assets/images/blue-800-150.png
     alt: "placeholder image 1"
-    title: "For redaktører"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Indholdsredaktør"
+    excerpt: "Opret indhold og løs almidelige vedligeholdelsesopgaver på hjemmesiden."
   - image_path: /assets/images/blue-800-150.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Lokal-administrator"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Grundlæggende opsætning af hjemmesiden."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blue-800-150.png
     title: "Udvikler"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Bidrag til udvikling af Bibliotekernes CMS."
 ---
 
 > DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne.

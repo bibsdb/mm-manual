@@ -3,7 +3,7 @@ permalink: /konfiguration
 toc: true
 toc_label: "Indhold på siden"
 sidebar:
-  title: "Sample Title"
+  title: "Vejledninger"
   nav: sidebar-sample
 ---
 

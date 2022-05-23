@@ -24,7 +24,6 @@ feature_row:
 
 DDB CMS er bibliotekernes fælles hjemmesideplatform, som bliver vedligeholdt af Det Digitale Folkebibliotek og videreudviklet i samarbejde med bibliotekerne.
 
-{% include feature_row id="intro" class="green" type="center" %}
 {% include feature_row %}
 
 Det er nu forsiden

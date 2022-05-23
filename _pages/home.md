@@ -4,9 +4,6 @@ excerpt: "Release 17"
 layout: splash
 header:
   overlay_color: "#37547d"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 feature_row:
   - image_path: assets/images/headerimage.PNG
     alt: "placeholder image 1"

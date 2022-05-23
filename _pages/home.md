@@ -10,6 +10,7 @@ header:
 feature_row:
   - title: "Indholdsredaktør"
     excerpt: "Opret indhold og andre almidelige opgaver på hjemmesiden."
+    url: "#test-link"
     btn_label: "Gå til manual"
     btn_class: "btn--primary"
   - title: "Lokal-administrator"
@@ -19,6 +20,7 @@ feature_row:
     btn_class: "btn--primary"
   - title: "Udvikler"
     excerpt: "Bidrag til udvikling af Bibliotekernes CMS."
+    url: "#test-link"
     btn_label: "Gå til manual"
     btn_class: "btn--primary"
     

@@ -1,7 +1,7 @@
 ---
 title: "Guides til alle"
 layout: splash
-permalink: /
+permalink: /gammel
 feature_row:
   - title: "Indholdsredaktør"
     excerpt: "Opret indhold og andre almidelige opgaver på hjemmesiden."

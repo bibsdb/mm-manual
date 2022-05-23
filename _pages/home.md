@@ -23,7 +23,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" class="green" type="center" %}
 {% include feature_row %}
 
 Det er nu forsiden

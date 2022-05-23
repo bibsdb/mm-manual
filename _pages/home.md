@@ -28,6 +28,9 @@ feature_row:
 
 Det er nu forsiden
 
+This text is rendered in green.
+{: .green}
+
 
 [Konfiguration](konfiguration)
 

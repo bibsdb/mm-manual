@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "Release 17"
 layout: splash
 header:
   overlay_color: "#37547d"

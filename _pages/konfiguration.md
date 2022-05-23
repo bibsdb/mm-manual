@@ -1,5 +1,6 @@
 ---
 permalink: /konfiguration
+layout: single
 toc: true
 toc_label: "Indhold på siden"
 ---

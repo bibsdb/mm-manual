@@ -3,6 +3,16 @@ main:
     url: /about/
     
 sidebar-sample:
+- title: "Funktioner"
+    children:
+      - title: "Huskeliste"
+        url: /
+      - title: "Følg søgning"
+        url: /
+      - title: "Arrangemneter"
+        url: /
+      - title: "Betaling"
+        url: /
   - title: "Indholdstyper"
     children:
       - title: "Video Guides"

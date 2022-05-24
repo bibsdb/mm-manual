@@ -1,4 +1,12 @@
-Skrivetips til manualskribenten
+---
+title: Skriveguide
+permalink: /skriveguide
+toc: true
+toc_label: "Indhold på siden"
+sidebar:
+  title: "Vejledninger"
+  nav: sidebar-sample
+---
 
 ##Hvad indeholder manualens sektioner?
 

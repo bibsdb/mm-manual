@@ -10,8 +10,7 @@ sidebar:
 
 ## Hvad indeholder manualens sektioner?
 
-### Funktioner
-Videoguides og beskrivelser der forklarer hvordan Folkebibliotekernes CMS virker.
+**Funktioner** Videoguides og beskrivelser der forklarer hvordan Folkebibliotekernes CMS virker.
 ### Indhold
 Guides til at oprette indhold på hjemmesiden.
 ### Administration

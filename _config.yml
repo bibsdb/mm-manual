@@ -101,8 +101,6 @@ defaults:
       type: pages
     values:
       layout: single
-      toc: true
-      toc_label: "Indhold på siden"
       sidebar:
         title: "Vejledninger"
         nav: "sidebar"

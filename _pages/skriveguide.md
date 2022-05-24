@@ -12,7 +12,7 @@ sidebar:
 
 **Funktioner** Videoguides og beskrivelser, der forklarer hvordan Folkebibliotekernes CMS virker. Målgruppen er bibliotekspersonale, der ønsker at vide mere om frontend funktionerne på hjemmesiden.
 
-**Indhold** Guides til at oprette indhold på hjemmesiden. Målgruppen der er indholdsredaktører på hjemmesiden.
+**Indhold** Guides til at oprette indhold på hjemmesiden. Målgruppen er indholdsredaktører på hjemmesiden.
 
 **Administration** Vedligeholdelsesopgaver på sitet, der foretages hyppigt (hver uge/måned). Målgruppen er medarbejdere, der varetager tilbagevendende administrative opgaver på hjemmesiden.
 

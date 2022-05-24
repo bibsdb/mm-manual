@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
     
-sidebar-sample:
+sidebar:
 - title: "Funktioner"
     children:
       - title: "Huskeliste"

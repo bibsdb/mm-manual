@@ -9,19 +9,17 @@ sidebar:
         url: /
       - title: "Følg søgning"
         url: /
-      - title: "Arrangemneter"
-        url: /
       - title: "Betaling"
         url: /
   - title: "Indholdstyper"
     children:
-      - title: "Video Guides"
-        url: /
       - title: "Nyheder"
         url: /
       - title: "Arrangemneter"
         url: /
       - title: "Sektioner"
+        url: /
+      - title: "Forsidekarussel"
         url: /
   - title: "Konfiguration"
     children:

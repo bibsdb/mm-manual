@@ -1,10 +1,12 @@
 Skrivetips til manualskribenten
 
-**Funktioner**
+##Hvad indeholder manualens sektioner?
+
+###Funktioner
 Videoguides og beskrivelser der forklarer hvordan Folkebibliotekernes CMS virker.
-**Indhold** 
+###Indhold
 Guides til at oprette indhold på hjemmesiden.
-**Administration**
+###Administration
 Vedligeholdelsesopgaver på sitet der foretages hyppigt (hver uge/måned).
-**Konfiguration**
+###Konfiguration
 Opsætning af sitet og konfiguration der sjældent kræver ændring.

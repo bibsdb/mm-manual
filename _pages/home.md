@@ -23,7 +23,7 @@ Fremgangsmåde:
 3. Upload fil. OBS. Anbefalet højde er 44px og fleksibel bredde.
 4. Tryk på knappen “Gem indstillinger”.
 
-**ProTip:** Ved skærme mindre end 600px bredde vises logoet ikke. Ønskes bibliotekets navn vist i stedet, skal "Sitets navn" være slået til under Udseende> Indstilliger> DDBasic V 2.0 (`admin/appearance/settings/ddbasic`) og Sitets navn skal være udfyldt under Indstillinger > System > Generel information (`admin/config/system/site-information`).
+**Logo på små skærme:** Ved skærme mindre end 600px bredde vises logoet ikke. Ønskes bibliotekets navn vist i stedet, skal "Sitets navn" være slået til under Udseende> Indstilliger> DDBasic V 2.0 (`admin/appearance/settings/ddbasic`) og Sitets navn skal være udfyldt under Indstillinger > System > Generel information (`admin/config/system/site-information`).
 {: .notice--info}
 
 ### Skift farver på hjemmesiden

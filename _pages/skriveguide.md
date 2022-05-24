@@ -5,7 +5,7 @@ toc: true
 toc_label: "Indhold på siden"
 sidebar:
   title: "Vejledninger"
-  nav: sidebar-sample
+  nav: sidebar
 ---
 
 ## Hvad indeholder manualens sektioner?

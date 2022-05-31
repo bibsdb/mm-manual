@@ -14,7 +14,7 @@ Farver og logo
 
 ### Skift logo på hjemmesiden
 
-I øverste venstre hjørne af DDB CMS vises som udgangspunkt logoet for Danskernes Digitale Biblioteker. For at skifte logoet gør du følgende:
+I øøøøøverste venstre hjørne af DDB CMS vises som udgangspunkt logoet for Danskernes Digitale Biblioteker. For at skifte logoet gør du følgende:
 
 Fremgangsmåde:
 
